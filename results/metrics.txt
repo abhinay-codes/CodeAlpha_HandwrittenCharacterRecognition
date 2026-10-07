@@ -1,0 +1,9 @@
+Model: CNN
+Dataset: MNIST
+Input Shape: (28, 28, 1)
+Batch Size: 64
+Epochs Actually Trained: 10
+Test Accuracy: 0.9933
+Weighted Precision: 0.9933
+Weighted Recall: 0.9933
+Weighted F1 Score: 0.9933
